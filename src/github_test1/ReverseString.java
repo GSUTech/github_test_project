@@ -10,6 +10,8 @@ public class ReverseString {
             reversedString += originalString.charAt(i);
         }
 
+
+        String whatver =  "Hello";
         System.out.println(reversedString);
 
     }
